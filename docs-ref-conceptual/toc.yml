@@ -14,12 +14,15 @@
           href: /azure/postgresql/connect-java
         - name: Cosmos DB
           href: /azure/cosmos-db/create-documentdb-java
-    - name: Get started with Java 
-      href: java-sdk-azure-get-started.md
-    - name: Get started with Java using Eclipse
-      href: java-sdk-azure-get-started-eclipse.md
-    - name: Get started with Java using Intellij
-      href: java-sdk-azure-get-started-intellij.md
+    - name: Get started with the Java SDK
+      expanded: true
+      items: 
+        - name: Get started using Maven
+          href: java-sdk-azure-get-started.md
+        - name: Get startedusing Eclipse
+          href: java-sdk-azure-get-started-eclipse.md
+        - name: Get started using Intellij
+          href: java-sdk-azure-get-started-intellij.md
     - name: Tools
       href: java-azure-tools.md 
       items: 
