@@ -19,7 +19,7 @@
       items: 
         - name: Get started using Maven
           href: java-sdk-azure-get-started.md
-        - name: Get startedusing Eclipse
+        - name: Get started using Eclipse
           href: java-sdk-azure-get-started-eclipse.md
         - name: Get started using Intellij
           href: java-sdk-azure-get-started-intellij.md
